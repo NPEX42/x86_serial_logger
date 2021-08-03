@@ -1,6 +1,6 @@
 [package]
     name = "x86_serial_logger"
-    version = "0.1.1-rc.1"
+    version = "0.1.1-rc.2"
     authors = ["NPEX42 <NPEX42@gmail.com>"]
     edition = "2018"
     description = "A Simple x86 Serial Logger, Taken from https://github.com/phil-opp/blog_os/blob/post-12/src/serial.rs"
